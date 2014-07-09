@@ -1,4 +1,4 @@
-gh_issues
+Git my issues
 =========
 
 Messy script to pull all issues and comments from a repo and display as html in the browser
